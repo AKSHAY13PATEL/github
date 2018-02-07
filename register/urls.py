@@ -9,3 +9,4 @@ urlpatterns = [
     url(r'^login$',Login,name='login'),
     url(r'^temp$',temp,name='temp')
 ]
+
